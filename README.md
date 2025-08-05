@@ -4,6 +4,7 @@
 1. Archivo > Nuevo > Archivo
 2. Establecemos la moneda base:
 
+    <a href="[https://github.com/user-attachments/assets/d3df2e35-379f-4b5b-b16c-89c0ea4c2305](https://github.com/user-attachments/assets/8e1cba4c-8974-4a6e-aeb8-7e94b693150e)" target="_blank">
     <img width="509" height="372" alt="image" src="https://github.com/user-attachments/assets/8e1cba4c-8974-4a6e-aeb8-7e94b693150e" />
     
 3. Asignamos un nombre en ambas cuentas:
