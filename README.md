@@ -82,7 +82,8 @@ Ya aquí, ir investigando todo lo que ofrece la app e ir trasteando hasta encont
 
 Yo lo que hago es añadir columnas y meto en cada una de ellas las distintas plataformas que tengo, pero claro, para quien tenga muchas plataformas, no es práctico.
 
-<img width="1734" height="369" alt="image" src="https://github.com/user-attachments/assets/ece31185-b525-4f76-9961-09d5ddac10c3" />
+<img src="https://github.com/user-attachments/assets/ece31185-b525-4f76-9961-09d5ddac10c3" alt="Vista agrupada" style="max-width: 100%; height: auto; display: block; margin: 1rem auto; border: 1px solid #ccc; border-radius: 4px;" />
+
 
 
 
