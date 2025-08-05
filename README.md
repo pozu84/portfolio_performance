@@ -17,7 +17,7 @@
 
 #  📊 ETFs y acciones
 
-1. Añadimos capital a nuestra cuenta:
+1. Antes de poder realizar inversiones en nuestra cuenta de valores, es necesario añadir capital. Este capital representa el dinero disponible para invertir, del mismo modo que, por ejemplo, en plataformas como Trade Republic (TR), primero debes ingresar fondos antes de comprar activos. En Portfolio Performance, este paso simula ese ingreso inicial de dinero en tu cuenta de efectivo, desde donde se realizarán posteriormente las compras de valores:
 
     <a href="https://github.com/user-attachments/assets/73a7f0f5-357d-46dd-a3a2-3dcd62cff4c2" target="_blank">
       <img src="https://github.com/user-attachments/assets/73a7f0f5-357d-46dd-a3a2-3dcd62cff4c2" alt="image" />
